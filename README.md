@@ -22,7 +22,7 @@ This project provides a basic service for creating and listing medical appointme
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JhoanLT/appointment-service.git
 cd appointment-service
 ```
 
