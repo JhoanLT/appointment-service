@@ -1,6 +1,5 @@
 const Appointment = require('../models/appointment.model');
 
-// This controller handles appointment-related operations
 exports.createAppointment = async (req, res) => {
     try {
         const newAppointment = new Appointment(req.body);
