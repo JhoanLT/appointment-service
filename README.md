@@ -118,12 +118,3 @@ src/
 Dockerfile
 docker-compose.yml
 ```
-
----
-
-## ✨ Future Improvements
-
-- Add validation (e.g., Joi or Zod)
-- Add pagination and filtering
-- Implement authentication
-- Add appointment reminders (email/SMS)
