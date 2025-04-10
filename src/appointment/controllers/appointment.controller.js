@@ -10,6 +10,7 @@ exports.createAppointment = async (req, res) => {
     }
 };
 
+// Get all appointments
 exports.getAllAppointments = async (req, res) => {
     try {
         const appointments = await Appointment.find();
